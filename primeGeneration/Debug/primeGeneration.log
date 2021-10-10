@@ -1,0 +1,4 @@
+﻿  primeGeneration.cpp
+D:\Zadania_C++\primeGeneration\primeGeneration\primeGeneration.cpp(54,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Zadania_C++\primeGeneration\primeGeneration\primeGeneration.cpp(103,23): warning C4018: '<': signed/unsigned mismatch
+  primeGeneration.vcxproj -> D:\Zadania_C++\primeGeneration\Debug\primeGeneration.exe
